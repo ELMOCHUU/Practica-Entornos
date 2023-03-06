@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Hola soy Ángel
+=======
+<<<<<<< HEAD
+Hola soy Luis
+=======
+Hola soy Samuel/ELMOCHUU
+>>>>>>> 893fc63395095da816a99b71d18f8b0c691bbb9a
+>>>>>>> 47cc89cc1531b4d4ad2f682ecc87cfefdfbbead3
